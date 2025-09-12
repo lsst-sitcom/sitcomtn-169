@@ -1,0 +1,23 @@
+[technote]
+id = "SITCOMTN-169"
+series_id = "SITCOMTN"
+canonical_url = "https://sitcomtn-169.lsst.io"
+github_url = "https://github.com/lsst-sitcom/sitcomtn-169"
+github_default_branch = "main"
+date_created = 2025-09-12T16:29:48Z
+organization.name = "NSF-DOE Vera C. Rubin Observatory"
+organization.ror = "https://ror.org/048g3cy84"
+license.id = "CC-BY-4.0"
+
+[technote.status]
+state = "draft"
+
+[[technote.authors]]
+name.given = "Dominique"
+name.family = "Boutigny"
+internal_id = "boutignyd"
+orcid = "https://orcid.org/0000-0003-4887-2150"
+[[technote.authors.affiliations]]
+name = "Université Savoie Mont-Blanc, CNRS/IN2P3, LAPP"
+internal_id = "IN2P3-LAPP"
+address = "Annecy"
